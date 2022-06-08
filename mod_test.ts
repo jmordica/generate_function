@@ -1,4 +1,4 @@
-import { assertEquals } from "https://deno.land/std@0.139.0/testing/asserts.ts";
+import { assertEquals } from "https://deno.land/std@0.142.0/testing/asserts.ts";
 import { genfun } from "./mod.ts";
 
 Deno.test("genfun", function() {
